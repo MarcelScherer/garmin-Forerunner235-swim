@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">swim_test</string>
+
+    <string id="main">Number of tracks:</string>
+	<string id="tracks">0 </string>
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+</strings>
